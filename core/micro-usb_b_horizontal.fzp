@@ -43,7 +43,7 @@
 </iconView>
 </views>
 <connectors>
-<connector id="connector4" name="D+" type="male">
+<connector id="connector3" name="D+" type="male">
 <description>D+</description>
 <views>
 <breadboardView>
@@ -57,7 +57,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector5" name="D-" type="male">
+<connector id="connector2" name="D-" type="male">
 <description>D-</description>
 <views>
 <breadboardView>
@@ -71,7 +71,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector6" name="GND" type="male">
+<connector id="connector5" name="GND" type="male">
 <description>GND</description>
 <views>
 <breadboardView>
@@ -85,7 +85,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector7" name="ID" type="male">
+<connector id="connector4" name="ID" type="male">
 <description>ID</description>
 <views>
 <breadboardView>
@@ -99,7 +99,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector2" name="MTN1" type="male">
+<connector id="connector6" name="MTN1" type="male">
 <description>MTN1</description>
 <views>
 <breadboardView>
@@ -114,7 +114,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector0" name="MTN2" type="male">
+<connector id="connector7" name="MTN2" type="male">
 <description>MTN2</description>
 <views>
 <breadboardView>
@@ -129,7 +129,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector1" name="MTN3" type="male">
+<connector id="connector8" name="MTN3" type="male">
 <description>MTN3</description>
 <views>
 <breadboardView>
@@ -144,7 +144,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector3" name="MTN4" type="male">
+<connector id="connector9" name="MTN4" type="male">
 <description>MTN4</description>
 <views>
 <breadboardView>
@@ -159,7 +159,7 @@
 </pcbView>
 </views>
 </connector>
-<connector id="connector8" name="VBUS" type="male">
+<connector id="connector1" name="VBUS" type="male">
 <description>VBUS</description>
 <views>
 <breadboardView>
