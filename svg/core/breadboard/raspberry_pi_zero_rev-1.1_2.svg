@@ -1,0 +1,662 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4834" width="65mm" version="1.1"  height="31mm" viewBox="0 0 230.31496 109.84252" gorn="0">
+    <desc >
+        <referenceFile >raspberry_pi_zero_v1.1_breadboard.svg</referenceFile>
+    </desc>
+    <defs id="defs4836" >
+        <linearGradient id="linearGradient6850"  paint="solid">
+            <stop id="stop6852"  offset="0" style="stop-color:#9a916c;stop-opacity:1;"/>
+        </linearGradient>
+        <linearGradient id="linearGradient6822"  paint="solid">
+            <stop id="stop6824"  offset="0" style="stop-color:#000000;stop-opacity:1;"/>
+        </linearGradient>
+    </defs>
+    <metadata id="metadata4839" >
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g  transform="translate(0,-942.51968)">
+        <g >
+            <g id="layer1"  gorn="0.3.0.0">
+                <g  transform="translate(0,942.51968)">
+                    <g >
+                        <path id="rect6844" stroke-opacity="1" stroke="#007300" fill="#007300" stroke-width="0.5"  fill-opacity="1" d="M 10.880859 0.26953125 C 4.991896 0.26953125 0.25 5.0094714 0.25 10.898438 L 0.25 95.392578 C 0.25 101.28154 4.991896 106.02344 10.880859 106.02344 L 219.45117 106.02344 C 225.34014 106.02344 230.08203 101.28154 230.08203 95.392578 L 230.08203 10.898438 C 230.08203 5.0094714 225.34014 0.26953125 219.45117 0.26953125 L 10.880859 0.26953125 z M 218.32031 6.7402344 A 5.1309309 5.1309309 0 0 1 223.45117 11.871094 A 5.1309309 5.1309309 0 0 1 218.32031 17.001953 A 5.1309309 5.1309309 0 0 1 213.1875 11.871094 A 5.1309309 5.1309309 0 0 1 218.32031 6.7402344 z M 12.318359 6.7597656 C 15.119554 6.6021906 17.563735 9.2438166 17.421875 12.029297 C 17.422302 14.782584 15.073602 16.981771 12.320312 16.982422 C 9.5662638 16.982849 7.2105102 14.625144 7.2109375 11.871094 C 7.1319365 9.1020915 9.5336437 6.6975584 12.318359 6.7597656 z M 218.32031 88.740234 A 5.1309309 5.1309309 0 0 1 223.45117 93.871094 A 5.1309309 5.1309309 0 0 1 218.32031 99.001953 A 5.1309309 5.1309309 0 0 1 213.1875 93.871094 A 5.1309309 5.1309309 0 0 1 218.32031 88.740234 z M 12.320312 88.748047 C 15.082667 88.671097 17.498229 91.087272 17.443359 93.849609 C 17.498229 96.611945 15.093714 99.137383 12.320312 98.994141 C 9.5571976 99.050071 7.1735883 96.721968 7.1953125 93.892578 C 7.1404425 91.107382 9.5571976 88.647921 12.320312 88.748047 z " style="opacity:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.0.0.0"/>
+                    </g>
+                </g>
+                <g  transform="translate(0,942.51968)">
+                    <g >
+                        <path id="path6848" stroke-opacity="1" stroke="#9a916c" fill="#9a916c" stroke-width="0.2498273"  fill-opacity="1" d="M 12.320312 1.3652344 A 10.505008 10.505008 0 0 0 1.8144531 11.871094 A 10.505008 10.505008 0 0 0 12.320312 22.376953 A 10.505008 10.505008 0 0 0 22.824219 11.871094 A 10.505008 10.505008 0 0 0 12.320312 1.3652344 z M 12.320312 6.8847656 A 4.9855549 4.9855446 0 0 1 17.304688 11.871094 A 4.9855549 4.9855446 0 0 1 12.320312 16.857422 A 4.9855549 4.9855446 0 0 1 7.3339844 11.871094 A 4.9855549 4.9855446 0 0 1 12.320312 6.8847656 z " style="opacity:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.1.0.0"/>
+                    </g>
+                </g>
+                <g  transform="translate(0,942.51968)">
+                    <g >
+                        <path id="path6848-2" stroke-opacity="1" stroke="#9a916c" fill="#9a916c" stroke-width="0.2498273"  fill-opacity="1" d="M 12.320312 83.365234 A 10.505008 10.505008 0 0 0 1.8144531 93.871094 A 10.505008 10.505008 0 0 0 12.320312 104.37695 A 10.505008 10.505008 0 0 0 22.824219 93.871094 A 10.505008 10.505008 0 0 0 12.320312 83.365234 z M 12.320312 88.869141 A 5.00266 5.0025423 0 0 1 17.322266 93.871094 A 5.00266 5.0025423 0 0 1 12.320312 98.873047 A 5.00266 5.0025423 0 0 1 7.3164062 93.871094 A 5.00266 5.0025423 0 0 1 12.320312 88.869141 z " style="opacity:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.2.0.0"/>
+                    </g>
+                </g>
+                <g  transform="translate(0,942.51968)">
+                    <g >
+                        <path id="path6848-2-5" stroke-opacity="1" stroke="#9a916c" fill="#9a916c" stroke-width="0.2498273"  fill-opacity="1" d="M 218.32031 83.365234 A 10.505008 10.505008 0 0 0 207.81445 93.871094 A 10.505008 10.505008 0 0 0 218.32031 104.37695 A 10.505008 10.505008 0 0 0 228.82422 93.871094 A 10.505008 10.505008 0 0 0 218.32031 83.365234 z M 218.32031 88.869141 A 5.0026579 5.0026579 0 0 1 223.32227 93.871094 A 5.0026579 5.0026579 0 0 1 218.32031 98.873047 A 5.0026579 5.0026579 0 0 1 213.31641 93.871094 A 5.0026579 5.0026579 0 0 1 218.32031 88.869141 z " style="opacity:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.3.0.0"/>
+                    </g>
+                </g>
+                <g  transform="translate(0,942.51968)">
+                    <g >
+                        <path id="path6848-6" stroke-opacity="1" stroke="#9a916c" fill="#9a916c" stroke-width="0.2498273"  fill-opacity="1" d="M 218.32031 1.3652344 A 10.505008 10.505008 0 0 0 207.81445 11.871094 A 10.505008 10.505008 0 0 0 218.32031 22.376953 A 10.505008 10.505008 0 0 0 228.82422 11.871094 A 10.505008 10.505008 0 0 0 218.32031 1.3652344 z M 218.32031 6.8691406 A 5.0026579 5.0026579 0 0 1 223.32227 11.871094 A 5.0026579 5.0026579 0 0 1 218.32031 16.873047 A 5.0026579 5.0026579 0 0 1 213.31641 11.871094 A 5.0026579 5.0026579 0 0 1 218.32031 6.8691406 z " style="opacity:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.4.0.0"/>
+                    </g>
+                </g>
+                <g  transform="matrix(1.0427079,0,0,0.94941272,56.395886,960.28612)">
+                    <g >
+                        <g id="g9246-6"  gorn="0.3.0.0.5.0.0">
+                            <rect id="_x30_.1.0.221.0.0.0-6-0" width="0.82200003"  height="1.022" x="83.200905" y="81.433777" style="fill:#666666" gorn="0.3.0.0.5.0.0.0"/>
+                            <rect id="_x30_.1.0.221.0.0.1-7-8" width="0.074000001"  height="0.912" x="83.200905" y="81.428772" style="fill:#999999" gorn="0.3.0.0.5.0.0.1"/>
+                            <rect id="_x30_.1.0.221.0.1.0-1-6" width="0.81800002"  height="1.022" x="84.731903" y="81.433777" style="fill:#666666" gorn="0.3.0.0.5.0.0.2"/>
+                            <rect id="_x30_.1.0.221.0.1.1-9-1" width="0.071999997"  height="0.912" x="84.731903" y="81.428772" style="fill:#999999" gorn="0.3.0.0.5.0.0.3"/>
+                            <rect id="_x30_.1.0.221.0.2.0-3-7" width="0.82200003"  height="1.022" x="86.258904" y="81.433777" style="fill:#666666" gorn="0.3.0.0.5.0.0.4"/>
+                            <rect id="_x30_.1.0.221.0.2.1-0-1" width="0.074000001"  height="0.912" x="86.258904" y="81.428772" style="fill:#999999" gorn="0.3.0.0.5.0.0.5"/>
+                            <rect id="_x30_.1.0.221.0.3.0-0-8" width="0.81999999"  height="1.022" x="87.790901" y="81.433777" style="fill:#666666" gorn="0.3.0.0.5.0.0.6"/>
+                            <rect id="_x30_.1.0.221.0.3.1-7-8" width="0.071999997"  height="0.912" x="87.790901" y="81.428772" style="fill:#999999" gorn="0.3.0.0.5.0.0.7"/>
+                            <rect id="_x30_.1.0.221.0.4.0-9-5" width="0.82200003"  height="1.022" x="89.317902" y="81.433777" style="fill:#666666" gorn="0.3.0.0.5.0.0.8"/>
+                            <rect id="_x30_.1.0.221.0.4.1-9-2" width="0.074000001"  height="0.912" x="89.317902" y="81.428772" style="fill:#999999" gorn="0.3.0.0.5.0.0.9"/>
+                            <g  transform="translate(75.171906,54.94877)">
+                                <g >
+                                    <polygon id="_x30_.1.0.221.0.5.0-7-5" points="3.691,41.39 3.691,27.272 19.335,27.272 19.333,41.39 "  style="fill:#b3b3b3" gorn="0.3.0.0.5.0.0.10.0.0"/>
+                                </g>
+                            </g>
+                            <rect id="_x30_.1.0.221.0.5.1-9-6" width="0.82599998"  height="2.523" x="94.674904" y="87.713776" style="fill:#666666" gorn="0.3.0.0.5.0.0.11"/>
+                            <rect id="_x30_.1.0.221.0.5.2-9-5" width="0.82999998"  height="2.523" x="77.838905" y="87.713776" style="fill:#666666" gorn="0.3.0.0.5.0.0.12"/>
+                            <rect id="_x30_.1.0.221.0.5.4-5-9" width="8.0072155"  height="12.961" x="82.828934" y="82.220779" style="fill:#333333" gorn="0.3.0.0.5.0.0.13"/>
+                            <path id="_x30_.1.0.221.0.5.13-6-5"  d="m 92.210811,82.22077 0,1.356 -1.367558,0 0,-1.356 -0.393225,0 0,0.472 -7.12835,0 0,-0.472 -0.445586,0 0,1.358 -1.367558,0 0,-1.358 -2.831628,0 0,14.119 16.423028,0 0,-14.119 -2.889123,0 z m -9.336772,11.502 0,0.677 -1.359345,0 0,-0.73 c -0.363451,-0.23 -0.601644,-0.631 -0.601644,-1.086 0,-0.498 0.193019,-0.916 0.601644,-1.135 l 0,0 0,-3.722 1.357292,0 0,3.722 c 0.412731,0.221 0.706366,0.641 0.706366,1.139 -0.0021,0.495 -0.287475,0.917 -0.704313,1.135 z m 9.278251,0 0,0.677 -1.357292,0 0,-0.73 c -0.363451,-0.23 -0.603697,-0.631 -0.603697,-1.086 0,-0.498 0.188912,-0.916 0.603697,-1.135 l 0,0 0,-3.722 1.357292,0 0,3.722 c 0.416838,0.221 0.704313,0.641 0.704313,1.139 0,0.495 -0.286448,0.917 -0.704313,1.135 z" style="fill:#e6e6e6" gorn="0.3.0.0.5.0.0.14"/>
+                            <g  transform="translate(75.171906,54.94877)">
+                                <g >
+                                    <polygon id="_x30_.1.0.221.0.5.15-5-6" points="19.027,32.276 18.556,27.744 19.501,27.744 19.501,41.39 "  style="fill:#999999" gorn="0.3.0.0.5.0.0.15.0.0"/>
+                                </g>
+                            </g>
+                            <rect id="_x30_.1.0.221.0.5.18-5-5" width="14.432"  height="0.54699999" x="79.456902" y="95.623779" style="fill:#b3b3b3" gorn="0.3.0.0.5.0.0.16"/>
+                            <rect id="_x30_.1.0.221.0.5.19-7-3" width="14.432"  height="0.25999999" x="79.456902" y="96.078781" style="fill:#cccccc" gorn="0.3.0.0.5.0.0.17"/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(1.0427079,0,0,0.94941272,100.53868,960.38152)">
+                    <g >
+                        <g id="g9246-6-8"  gorn="0.3.0.0.6.0.0">
+                            <rect id="_x30_.1.0.221.0.0.0-6-0-0" width="0.82200003"  height="1.022" x="83.200905" y="81.433777" style="fill:#666666" gorn="0.3.0.0.6.0.0.0"/>
+                            <rect id="_x30_.1.0.221.0.0.1-7-8-4" width="0.074000001"  height="0.912" x="83.200905" y="81.428772" style="fill:#999999" gorn="0.3.0.0.6.0.0.1"/>
+                            <rect id="_x30_.1.0.221.0.1.0-1-6-8" width="0.81800002"  height="1.022" x="84.731903" y="81.433777" style="fill:#666666" gorn="0.3.0.0.6.0.0.2"/>
+                            <rect id="_x30_.1.0.221.0.1.1-9-1-1" width="0.071999997"  height="0.912" x="84.731903" y="81.428772" style="fill:#999999" gorn="0.3.0.0.6.0.0.3"/>
+                            <rect id="_x30_.1.0.221.0.2.0-3-7-1" width="0.82200003"  height="1.022" x="86.258904" y="81.433777" style="fill:#666666" gorn="0.3.0.0.6.0.0.4"/>
+                            <rect id="_x30_.1.0.221.0.2.1-0-1-8" width="0.074000001"  height="0.912" x="86.258904" y="81.428772" style="fill:#999999" gorn="0.3.0.0.6.0.0.5"/>
+                            <rect id="_x30_.1.0.221.0.3.0-0-8-0" width="0.81999999"  height="1.022" x="87.790901" y="81.433777" style="fill:#666666" gorn="0.3.0.0.6.0.0.6"/>
+                            <rect id="_x30_.1.0.221.0.3.1-7-8-6" width="0.071999997"  height="0.912" x="87.790901" y="81.428772" style="fill:#999999" gorn="0.3.0.0.6.0.0.7"/>
+                            <rect id="_x30_.1.0.221.0.4.0-9-5-8" width="0.82200003"  height="1.022" x="89.317902" y="81.433777" style="fill:#666666" gorn="0.3.0.0.6.0.0.8"/>
+                            <rect id="_x30_.1.0.221.0.4.1-9-2-2" width="0.074000001"  height="0.912" x="89.317902" y="81.428772" style="fill:#999999" gorn="0.3.0.0.6.0.0.9"/>
+                            <g  transform="translate(75.171906,54.94877)">
+                                <g >
+                                    <polygon id="_x30_.1.0.221.0.5.0-7-5-8" points="19.333,41.39 3.691,41.39 3.691,27.272 19.335,27.272 "  style="fill:#b3b3b3" gorn="0.3.0.0.6.0.0.10.0.0"/>
+                                </g>
+                            </g>
+                            <rect id="_x30_.1.0.221.0.5.1-9-6-0" width="0.82599998"  height="2.523" x="94.674904" y="87.713776" style="fill:#666666" gorn="0.3.0.0.6.0.0.11"/>
+                            <rect id="_x30_.1.0.221.0.5.2-9-5-8" width="0.82999998"  height="2.523" x="77.838905" y="87.713776" style="fill:#666666" gorn="0.3.0.0.6.0.0.12"/>
+                            <rect id="_x30_.1.0.221.0.5.4-5-9-7" width="8.0072155"  height="12.961" x="82.828934" y="82.220779" style="fill:#333333" gorn="0.3.0.0.6.0.0.13"/>
+                            <path id="_x30_.1.0.221.0.5.13-6-5-6"  d="m 92.210811,82.22077 0,1.356 -1.367558,0 0,-1.356 -0.393225,0 0,0.472 -7.12835,0 0,-0.472 -0.445586,0 0,1.358 -1.367558,0 0,-1.358 -2.831628,0 0,14.119 16.423028,0 0,-14.119 -2.889123,0 z m -9.336772,11.502 0,0.677 -1.359345,0 0,-0.73 c -0.363451,-0.23 -0.601644,-0.631 -0.601644,-1.086 0,-0.498 0.193019,-0.916 0.601644,-1.135 l 0,0 0,-3.722 1.357292,0 0,3.722 c 0.412731,0.221 0.706366,0.641 0.706366,1.139 -0.0021,0.495 -0.287475,0.917 -0.704313,1.135 z m 9.278251,0 0,0.677 -1.357292,0 0,-0.73 c -0.363451,-0.23 -0.603697,-0.631 -0.603697,-1.086 0,-0.498 0.188912,-0.916 0.603697,-1.135 l 0,0 0,-3.722 1.357292,0 0,3.722 c 0.416838,0.221 0.704313,0.641 0.704313,1.139 0,0.495 -0.286448,0.917 -0.704313,1.135 z" style="fill:#e6e6e6" gorn="0.3.0.0.6.0.0.14"/>
+                            <g  transform="translate(75.171906,54.94877)">
+                                <g >
+                                    <polygon id="_x30_.1.0.221.0.5.15-5-6-7" points="19.501,41.39 19.027,32.276 18.556,27.744 19.501,27.744 "  style="fill:#999999" gorn="0.3.0.0.6.0.0.15.0.0"/>
+                                </g>
+                            </g>
+                            <rect id="_x30_.1.0.221.0.5.18-5-5-8" width="14.432"  height="0.54699999" x="79.456902" y="95.623779" style="fill:#b3b3b3" gorn="0.3.0.0.6.0.0.16"/>
+                            <rect id="_x30_.1.0.221.0.5.19-7-3-0" width="14.432"  height="0.25999999" x="79.456902" y="96.078781" style="fill:#cccccc" gorn="0.3.0.0.6.0.0.17"/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(0.98847233,0,0,0.99541048,18.154306,916.87998)">
+                    <g >
+                        <polygon id="rect3941-8_1_" points="73.866,56.116 109.335,56.116 109.335,94.821 70.717,94.821 70.717,60.116 "  style="fill:#1a1a1a" gorn="0.3.0.0.7.0.0"/>
+                    </g>
+                </g>
+                <g  transform="matrix(1.2243617,0,0,1.1993268,2.2653424,1012.2793)">
+                    <g >
+                        <g id="g5454"  gorn="0.3.0.0.8.0.0">
+                            <g  transform="translate(-0.01521957,-57.41455)">
+                                <g >
+                                    <g id="g7114"  gorn="0.3.0.0.8.0.0.0.0.0">
+                                        <g id="g7013"  gorn="0.3.0.0.8.0.0.0.0.0.0">
+                                            <g id="g5867"  gorn="0.3.0.0.8.0.0.0.0.0.0.0">
+                                                <circle id="connector8pin-3" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.0.0"/>
+                                                <circle id="connector8pin-8" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.0.1"/>
+                                                <ellipse id="connector0pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.0.2"/>
+                                                <ellipse id="connector38pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.0.3"/>
+                                            </g>
+                                            <g  transform="matrix(1.0004406,0,0,0.99659969,7.1994411,-0.02420422)">
+                                                <g >
+                                                    <g id="g5867-3"  gorn="0.3.0.0.8.0.0.0.0.0.0.1.0.0">
+                                                        <circle id="connector8pin-3-8" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.1.0.0.0"/>
+                                                        <circle id="connector8pin-8-5" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.1.0.0.1"/>
+                                                        <ellipse id="connector1pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.1.0.0.2"/>
+                                                        <ellipse id="connector39pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.1.0.0.3"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g  transform="translate(13.913833,8.03125)">
+                                                <g >
+                                                    <g id="g6002"  gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0">
+                                                        <g  transform="translate(0.48909316,-8.0372438)">
+                                                            <g >
+                                                                <g id="g5867-7"  gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.0.0.0">
+                                                                    <circle id="connector8pin-3-85" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.0.0.0.0"/>
+                                                                    <circle id="connector8pin-8-4" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.0.0.0.1"/>
+                                                                    <ellipse id="connector2pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.0.0.0.2"/>
+                                                                    <ellipse id="connector37pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.0.0.0.3"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="matrix(1.0004406,0,0,0.99659969,7.6885342,-8.061448)">
+                                                            <g >
+                                                                <g id="g5867-3-5"  gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.1.0.0">
+                                                                    <circle id="connector8pin-3-8-4" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.1.0.0.0"/>
+                                                                    <circle id="connector8pin-8-5-7" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.1.0.0.1"/>
+                                                                    <ellipse id="connector3pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.1.0.0.2"/>
+                                                                    <ellipse id="connector36pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.0.2.0.0.1.0.0.3"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(28.75638,-0.0654968)">
+                                            <g >
+                                                <g id="g7013-9"  gorn="0.3.0.0.8.0.0.0.0.0.1.0.0">
+                                                    <g id="g5867-2"  gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.0">
+                                                        <circle id="connector8pin-3-7" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.0.0"/>
+                                                        <circle id="connector8pin-8-3" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.0.1"/>
+                                                        <ellipse id="connector4pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.0.2"/>
+                                                        <ellipse id="connector35pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.0.3"/>
+                                                    </g>
+                                                    <g  transform="matrix(1.0004406,0,0,0.99659969,7.1994411,-0.02420422)">
+                                                        <g >
+                                                            <g id="g5867-3-2"  gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.1.0.0">
+                                                                <circle id="connector8pin-3-8-3" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.1.0.0.0"/>
+                                                                <circle id="connector8pin-8-5-2" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.1.0.0.1"/>
+                                                                <ellipse id="connector5pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.1.0.0.2"/>
+                                                                <ellipse id="connector34pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.1.0.0.3"/>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                    <g  transform="translate(13.913833,8.03125)">
+                                                        <g >
+                                                            <g id="g6002-3"  gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0">
+                                                                <g  transform="translate(0.48909316,-8.0372438)">
+                                                                    <g >
+                                                                        <g id="g5867-7-4"  gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.0.0.0">
+                                                                            <circle id="connector8pin-3-85-4" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.0.0.0.0"/>
+                                                                            <circle id="connector8pin-8-4-0" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.0.0.0.1"/>
+                                                                            <ellipse id="connector6pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.0.0.0.2"/>
+                                                                            <ellipse id="connector33pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.0.0.0.3"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                                <g  transform="matrix(1.0004406,0,0,0.99659969,7.6885342,-8.061448)">
+                                                                    <g >
+                                                                        <g id="g5867-3-5-1"  gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.1.0.0">
+                                                                            <circle id="connector8pin-3-8-4-0" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.1.0.0.0"/>
+                                                                            <circle cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.1.0.0.1"/>
+                                                                            <ellipse id="connector7pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.1.0.0.2"/>
+                                                                            <ellipse id="connector32pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.0.0.0.1.0.0.2.0.0.1.0.0.3"/>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="translate(57.58172,-57.384798)">
+                                <g >
+                                    <g id="g7114-2"  gorn="0.3.0.0.8.0.0.1.0.0">
+                                        <g id="g7013-4"  gorn="0.3.0.0.8.0.0.1.0.0.0">
+                                            <g id="g5867-5"  gorn="0.3.0.0.8.0.0.1.0.0.0.0">
+                                                <circle id="connector8pin-3-9" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.0.0"/>
+                                                <circle id="connector8pin-8-0" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.0.1"/>
+                                                <ellipse id="connector8pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.0.2"/>
+                                                <ellipse id="connector31pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.0.3"/>
+                                            </g>
+                                            <g  transform="matrix(1.0004406,0,0,0.99659969,7.1994411,-0.02420422)">
+                                                <g >
+                                                    <g id="g5867-3-6"  gorn="0.3.0.0.8.0.0.1.0.0.0.1.0.0">
+                                                        <circle id="connector8pin-3-8-2" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.1.0.0.0"/>
+                                                        <circle id="connector8pin-8-5-27" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.1.0.0.1"/>
+                                                        <ellipse id="connector9pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.1.0.0.2"/>
+                                                        <ellipse id="connector30pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.1.0.0.3"/>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g  transform="translate(13.913833,8.03125)">
+                                                <g >
+                                                    <g id="g6002-9"  gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0">
+                                                        <g  transform="translate(0.48909316,-8.0372438)">
+                                                            <g >
+                                                                <g id="g5867-7-0"  gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.0.0.0">
+                                                                    <circle id="connector8pin-3-85-0" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.0.0.0.0"/>
+                                                                    <circle id="connector8pin-8-4-4" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.0.0.0.1"/>
+                                                                    <ellipse id="connector10pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.0.0.0.2"/>
+                                                                    <ellipse id="connector29pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.0.0.0.3"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                        <g  transform="matrix(1.0004406,0,0,0.99659969,7.6885342,-8.061448)">
+                                                            <g >
+                                                                <g id="g5867-3-5-9"  gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.1.0.0">
+                                                                    <circle id="connector8pin-3-8-4-5" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.1.0.0.0"/>
+                                                                    <circle id="connector8pin-8-5-7-6" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.1.0.0.1"/>
+                                                                    <ellipse id="connector11pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.1.0.0.2"/>
+                                                                    <ellipse id="connector28pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.0.2.0.0.1.0.0.3"/>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(28.75638,-0.0654968)">
+                                            <g >
+                                                <g id="g7013-9-3"  gorn="0.3.0.0.8.0.0.1.0.0.1.0.0">
+                                                    <g id="g5867-2-5"  gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.0"/>
+                                                    <g  transform="matrix(1.0004406,0,0,0.99659969,7.1994411,-0.02420422)">
+                                                        <g >
+                                                            <g id="g5867-3-2-2"  gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.1.0.0"/>
+                                                        </g>
+                                                    </g>
+                                                    <g  transform="translate(13.913833,8.03125)">
+                                                        <g >
+                                                            <g id="g6002-3-8"  gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0">
+                                                                <g  transform="translate(0.48909316,-8.0372438)">
+                                                                    <g >
+                                                                        <g id="g5867-7-4-9"  gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.0.0.0"/>
+                                                                    </g>
+                                                                </g>
+                                                                <g  transform="matrix(1.0004406,0,0,0.99659969,7.6885342,-8.061448)">
+                                                                    <g >
+                                                                        <g id="g5867-3-5-1-6"  gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0">
+                                                                            <g id="g7319"  gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0">
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                                                                    <g >
+                                                                                        <circle id="connector8pin-3-7-7" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.0.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                                                                    <g >
+                                                                                        <circle id="connector8pin-8-3-6" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.1.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                                                                    <g >
+                                                                                        <ellipse id="connector12pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.2.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                                                                    <g >
+                                                                                        <ellipse id="connector27pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.3.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="translate(-14.396583,0.00601423)">
+                                                                                    <g >
+                                                                                        <circle id="connector8pin-3-8-3-5" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.4.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="translate(-14.396583,0.00601423)">
+                                                                                    <g >
+                                                                                        <circle id="connector8pin-8-5-2-2" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.5.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="translate(-14.396583,0.00601423)">
+                                                                                    <g >
+                                                                                        <ellipse id="connector13pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.6.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="translate(-14.396583,0.00601423)">
+                                                                                    <g >
+                                                                                        <ellipse id="connector26pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.7.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                                                                    <g >
+                                                                                        <circle id="connector8pin-3-85-4-6" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.8.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                                                                    <g >
+                                                                                        <circle id="connector8pin-8-4-0-1" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.9.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                                                                    <g >
+                                                                                        <ellipse id="connector14pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.10.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                                                                    <g >
+                                                                                        <ellipse id="connector25pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.11.0.0"/>
+                                                                                    </g>
+                                                                                </g>
+                                                                                <circle id="connector8pin-3-8-4-0-8" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.12"/>
+                                                                                <circle id="connector8pin-8-5-7-2-5" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.13"/>
+                                                                                <ellipse id="connector15pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.14"/>
+                                                                                <ellipse id="connector24pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.1.0.0.1.0.0.2.0.0.1.0.0.0.15"/>
+                                                                            </g>
+                                                                        </g>
+                                                                    </g>
+                                                                </g>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="matrix(1.0004406,0,0,0.99659969,136.78103,-57.478995)">
+                                <g >
+                                    <g id="g7319-5"  gorn="0.3.0.0.8.0.0.2.0.0">
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                            <g >
+                                                <circle id="connector8pin-3-7-7-2" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.0.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                            <g >
+                                                <circle id="connector8pin-8-3-6-7" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.1.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                            <g >
+                                                <ellipse id="connector16pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.2.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-21.592853,0.03030103)">
+                                            <g >
+                                                <ellipse id="connector23pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.3.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(-14.396583,0.00601423)">
+                                            <g >
+                                                <circle id="connector8pin-3-8-3-5-9" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.4.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(-14.396583,0.00601423)">
+                                            <g >
+                                                <circle id="connector8pin-8-5-2-2-1" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.5.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(-14.396583,0.00601423)">
+                                            <g >
+                                                <ellipse id="connector17pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.6.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="translate(-14.396583,0.00601423)">
+                                            <g >
+                                                <ellipse id="connector22pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.7.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                            <g >
+                                                <circle id="connector8pin-3-85-4-6-8" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.8.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                            <g >
+                                                <circle id="connector8pin-8-4-0-1-9" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.9.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                            <g >
+                                                <ellipse id="connector18pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.10.0.0"/>
+                                            </g>
+                                        </g>
+                                        <g  transform="matrix(0.99955959,0,0,1.0034119,-7.1962665,0.02428678)">
+                                            <g >
+                                                <ellipse id="connector21pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.11.0.0"/>
+                                            </g>
+                                        </g>
+                                        <circle id="connector8pin-3-8-4-0-8-5" cx="23.741152" stroke="#9a916c" fill="none" cy="12.77361" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.12"/>
+                                        <circle id="connector8pin-8-5-7-2-5-7" cx="23.756786" stroke="#9a916c" fill="none" cy="5.5732188" stroke-width="1.52999997" r="2.5650001"  connectorname="VCC" gorn="0.3.0.0.8.0.0.2.0.0.13"/>
+                                        <ellipse id="connector19pin" stroke-opacity="1" cx="23.74634" stroke="#ffffff" fill="#ffffff" cy="12.774" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.14"/>
+                                        <ellipse id="connector20pin" stroke-opacity="1" cx="23.776464" stroke="#ffffff" fill="#ffffff" cy="5.5676441" stroke-width="0.4945285"  fill-opacity="1" rx="1.5608828" ry="1.5538801" style="stroke-miterlimit:4;stroke-dasharray:none;" gorn="0.3.0.0.8.0.0.2.0.0.15"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="translate(-18.916731,18.83007)">
+                    <g >
+                        <g id="g8032"  gorn="0.3.0.0.9.0.0">
+                            <rect id="_x30_.1.0.220.0.0.0-6" width="0.58518922"  height="1.7617319" x="69.195877" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.0"/>
+                            <rect id="_x30_.1.0.220.0.2.0-9" width="0.58456403"  height="1.7617319" x="67.695404" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.1"/>
+                            <rect id="_x30_.1.0.220.0.3.0-5" width="0.5839389"  height="1.7617319" x="66.943283" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.2"/>
+                            <rect id="_x30_.1.0.220.0.4.0-5" width="0.5839389"  height="1.7617319" x="66.191788" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.3"/>
+                            <rect id="_x30_.1.0.220.0.5.0-1" width="0.5839389"  height="1.7617319" x="65.440926" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.4"/>
+                            <rect id="_x30_.1.0.220.0.6.0-8" width="0.5839389"  height="1.7617319" x="64.690056" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.5"/>
+                            <rect id="_x30_.1.0.220.0.7.0-5" width="0.58456403"  height="1.7617319" x="63.939186" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.6"/>
+                            <rect id="_x30_.1.0.220.0.8.0-6" width="0.58456403"  height="1.7617319" x="63.188316" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.7"/>
+                            <rect id="_x30_.1.0.220.0.9.0-8" width="0.5839389"  height="1.7617319" x="62.436199" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.8"/>
+                            <rect id="_x30_.1.0.220.0.10.0-2" width="0.58331364"  height="1.7617319" x="61.685333" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.9"/>
+                            <rect id="_x30_.1.0.220.0.11.0-2" width="0.58456403"  height="1.7617319" x="60.93446" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.10"/>
+                            <rect id="_x30_.1.0.220.0.12.0-7" width="0.58581442"  height="1.7617319" x="60.183601" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.11"/>
+                            <rect id="_x30_.1.0.220.0.13.0-6" width="0.58518922"  height="1.7617319" x="59.432102" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.12"/>
+                            <rect id="_x30_.1.0.220.0.14.0-9" width="0.58518922"  height="1.7617319" x="58.681236" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.13"/>
+                            <rect id="_x30_.1.0.220.0.15.0-7" width="0.5839389"  height="1.7617319" x="57.93037" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.14"/>
+                            <rect id="_x30_.1.0.220.0.16.0-4" width="0.5839389"  height="1.7617319" x="57.178875" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.15"/>
+                            <rect id="_x30_.1.0.220.0.17.0-7" width="0.58456403"  height="1.7617319" x="56.428009" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.16"/>
+                            <rect id="_x30_.1.0.220.0.18.0-0" width="0.58518922"  height="1.7617319" x="55.676514" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.17"/>
+                            <rect id="_x30_.1.0.220.0.19.0-3" width="0.58518922"  height="1.7617319" x="54.92627" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.18"/>
+                            <rect id="_x30_.1.0.220.0.20.0-2" width="0.58518922"  height="1.7617319" x="54.174782" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.19"/>
+                            <rect id="_x30_.1.0.220.0.21.0-0" width="0.5839389"  height="1.7617319" x="53.423283" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.20"/>
+                            <rect id="_x30_.1.0.220.0.22.0-3" width="0.5839389"  height="1.7617319" x="52.671795" y="1012.5384" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.21"/>
+                            <rect id="_x30_.1.0.220.2.2-5" width="28.554234"  height="12.947042" x="46.941189" y="1019.7834" style="fill:#333333" gorn="0.3.0.0.9.0.0.22"/>
+                            <path id="_x30_.1.0.220.2.3-1"  d="m 70.897059,1013.8421 -19.342504,0 0,3.2326 -4.615242,0 0,15.1158 0,0.6562 1.216643,0 26.134701,0 1.216019,0 0,-0.6562 0,-15.1158 -4.614618,0 0.005,-3.2326 0,0 z m -14.060796,17.4175 -0.344487,0 c -0.206942,0 -0.395753,-0.1197 -0.41826,-0.2651 l -1.108483,-8.2648 c -0.01626,-0.1534 -0.195689,-0.2696 -0.416385,-0.2696 l -0.86653,0 c -0.201315,0 -0.400755,0.1242 -0.419511,0.2696 l -1.103482,8.2636 c -0.02439,0.1466 -0.195689,0.2651 -0.417636,0.2651 l -0.340109,10e-4 c -0.205692,0 -0.363868,-0.1196 -0.342611,-0.2651 l 1.472977,-9.8335 c 0.02813,-0.1454 0.206317,-0.2628 0.417009,-0.2628 l 2.333255,0 c 0.208192,0 0.400129,0.1197 0.41951,0.2628 l 1.471727,9.8335 c 0.02875,0.1455 -0.131919,0.2651 -0.336984,0.2651 z m 1.540498,-11.9423 0.386375,0 c 0.232575,0 0.443893,0.1523 0.468901,0.3321 l 1.246653,10.3969 c 0.01688,0.1855 0.220697,0.3333 0.466401,0.3333 l 0.974065,0 c 0.225073,0 0.44702,-0.1523 0.468902,-0.3333 l 1.237275,-10.3957 c 0.02813,-0.181 0.221322,-0.3321 0.468902,-0.3321 l 0.378872,-10e-4 c 0.22945,0 0.407007,0.1511 0.383875,0.3321 l -1.566758,11.4509 c -0.03313,0.1815 -0.231949,0.3281 -0.467651,0.3281 l -2.622098,0 c -0.23445,0 -0.447644,-0.15 -0.470152,-0.3281 l -1.740562,-11.451 c -0.02376,-0.1815 0.156926,-0.3321 0.387,-0.3321 z m 12.669097,11.9423 -0.344487,0 c -0.206317,0 -0.397003,-0.1197 -0.418885,-0.2651 l -1.109735,-8.2648 c -0.01501,-0.1534 -0.195688,-0.2696 -0.416384,-0.2696 l -0.865905,0 c -0.202565,0 -0.399504,0.1242 -0.418885,0.2696 l -1.105358,8.2636 c -0.02563,0.1466 -0.195688,0.2651 -0.417634,0.2651 l -0.341986,10e-4 c -0.203816,0 -0.363867,-0.1196 -0.341986,-0.2651 l 1.471727,-9.8335 c 0.02939,-0.1454 0.206316,-0.2628 0.417634,-0.2628 l 2.332629,0 c 0.207567,0 0.40013,0.1197 0.420137,0.2628 l 1.4711,9.8335 c 0.03313,0.1455 -0.128166,0.2651 -0.331982,0.2651 z" style="fill:#b3b3b3" gorn="0.3.0.0.9.0.0.23"/>
+                            <g  transform="matrix(0.62520215,0,0,0.57254856,4.5180949,938.75576)">
+                                <g >
+                                    <polygon id="_x30_.1.0.220.2.4-1" points="103.473,146.192 103.617,147.548 100.5,147.548 100.662,146.192 "  style="fill:#939393" gorn="0.3.0.0.9.0.0.24.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="matrix(0.62520215,0,0,0.57254856,4.5180949,938.75576)">
+                                <g >
+                                    <polygon id="_x30_.1.0.220.2.5-0" points="103.703,148.112 103.617,147.548 100.5,147.548 100.422,148.112 "  style="fill:#666666" gorn="0.3.0.0.9.0.0.25.0.0"/>
+                                </g>
+                            </g>
+                            <rect id="_x30_.1.0.220.3-0" width="1.8999896"  height="0.47521532" x="46.941189" y="1018.4413" style="fill:#808080" gorn="0.3.0.0.9.0.0.26"/>
+                            <rect id="_x30_.1.0.220.4-8" width="1.8999896"  height="0.47521532" x="46.941189" y="1019.7834" style="fill:#808080" gorn="0.3.0.0.9.0.0.27"/>
+                            <rect id="_x30_.1.0.220.5-4" width="1.8981138"  height="0.47521532" x="73.611687" y="1018.4413" style="fill:#808080" gorn="0.3.0.0.9.0.0.28"/>
+                            <rect id="_x30_.1.0.220.6-9" width="1.8981138"  height="0.47521532" x="73.611687" y="1019.7834" style="fill:#808080" gorn="0.3.0.0.9.0.0.29"/>
+                            <path id="_x30_.1.0.220.7-8"  d="m 54.177903,1013.8856 c -0.285718,0 -0.518918,0 -0.518918,0 0,0 0,0.1992 0,0.4414 0,0.2416 0,0.6544 0,0.9149 l 0,1.2774 c 0,0.2617 0.21632,0.4764 0.481406,0.4764 0.266336,0 0.482031,-0.2147 0.482031,-0.4764 l 0,-1.2774 c 0,-0.2605 0.232575,-0.4752 0.518292,-0.4752 l 12.173938,0 c 0.285716,0 0.518917,0.2147 0.518917,0.4752 l 0,1.2774 c 0,0.2617 0.218196,0.4764 0.48203,0.4764 0.263837,0 0.480782,-0.2147 0.480782,-0.4764 l 0,-1.2774 c 0,-0.2605 0,-0.6721 0,-0.9149 0,-0.2433 0,-0.4414 0,-0.4414 0,0 -0.233201,0 -0.518919,0 l -14.099559,0 z" style="fill:#808080" gorn="0.3.0.0.9.0.0.30"/>
+                            <rect id="_x30_.1.0.220.9-0" width="0.87278229"  height="15.771996" x="47.275669" y="1017.0753" style="fill:#ffffff;fill-opacity:0.2" gorn="0.3.0.0.9.0.0.31"/>
+                            <rect id="_x30_.1.0.220.0.2.0-9-5" width="0.58456409"  height="1.275596" x="68.437866" y="1012.5499" style="fill:#cccccc" gorn="0.3.0.0.9.0.0.32"/>
+                            <g  transform="matrix(0.62520215,0,0,0.57254856,-9.6943212,938.74155)">
+                                <g >
+                                    <polygon id="_x30_.1.0.220.2.4-1-0" points="100.5,147.548 100.662,146.192 103.473,146.192 103.617,147.548 "  style="fill:#939393" gorn="0.3.0.0.9.0.0.33.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="matrix(0.62520215,0,0,0.57254856,-9.6943212,938.74155)">
+                                <g >
+                                    <polygon id="_x30_.1.0.220.2.5-0-1" points="100.5,147.548 100.422,148.112 103.703,148.112 103.617,147.548 "  style="fill:#666666" gorn="0.3.0.0.9.0.0.34.0.0"/>
+                                </g>
+                            </g>
+                            <rect id="_x30_.1.0.220.9-0-0" width="0.87278229"  height="15.771996" x="74.236153" y="1017.0074" style="fill:#ffffff;fill-opacity:0.2" gorn="0.3.0.0.9.0.0.35"/>
+                        </g>
+                    </g>
+                </g>
+                <g  transform="matrix(4.1895296e-4,0.05343063,-0.06638553,3.3719579e-4,53.811856,966.92856)">
+                    <g >
+                        <g id="breadboard-1"  gorn="0.3.0.0.10.0.0">
+                            <g id="icon-4"  gorn="0.3.0.0.10.0.0.0">
+                                <g  transform="translate(100,182.014)">
+                                    <g >
+                                        <g id="g10-4"  gorn="0.3.0.0.10.0.0.0.0.0.0">
+                                            <polygon id="polygon12-5" points="0,287.875 0,584.458 42.9028,584.458 42.9028,387.236 416.625,387.236 416.625,633.389 572.819,633.389 572.819,616.194 541.625,616.194 541.625,571.139 572.819,571.139 572.819,0.527778 27.5417,0.527778 27.5417,287.875 "  style="fill:#404040" gorn="0.3.0.0.10.0.0.0.0.0.0.0"/>
+                                            <polygon id="polygon14-9" points="416.625,633.389 543.847,633.389 543.583,635.417 416.597,635.417 "  style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.1"/>
+                                            <rect id="rect16-6" width="389.08301"  height="3.5277801" x="27.5417" y="387.23599" style="fill:#202020" gorn="0.3.0.0.10.0.0.0.0.0.0.2"/>
+                                            <rect id="rect18-8" width="31.513901"  height="34.666698" x="350.931" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.3"/>
+                                            <rect id="rect20-5" width="31.513901"  height="34.666698" x="350.931" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.4"/>
+                                            <rect id="rect22-9" width="17.013901"  height="111.111" x="357.54199" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.5"/>
+                                            <rect id="rect24-5" width="17.013901"  height="12.8889" x="357.54199" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.6"/>
+                                            <rect id="rect26-5" width="17.013901"  height="8.3888903" x="357.54199" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.7"/>
+                                            <rect id="rect28-1" width="17.013901"  height="58.75" x="357.54199" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.8"/>
+                                            <rect id="rect30-6" width="31.513901"  height="34.666698" x="306.931" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.9"/>
+                                            <rect id="rect32-3" width="31.513901"  height="34.666698" x="306.931" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.10"/>
+                                            <rect id="rect34-9" width="17.013901"  height="111.111" x="313.54199" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.11"/>
+                                            <rect id="rect36-8" width="17.013901"  height="12.8889" x="313.54199" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.12"/>
+                                            <rect id="rect38-7" width="17.013901"  height="8.3888903" x="313.54199" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.13"/>
+                                            <rect id="rect40-8" width="17.013901"  height="58.75" x="313.54199" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.14"/>
+                                            <rect id="rect42-7" width="31.4722"  height="34.666698" x="262.91699" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.15"/>
+                                            <rect id="rect44-7" width="31.4722"  height="34.666698" x="262.91699" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.16"/>
+                                            <rect id="rect46-5" width="17"  height="111.111" x="269.556" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.17"/>
+                                            <rect id="rect48-4" width="17"  height="12.8889" x="269.556" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.18"/>
+                                            <rect id="rect50-5" width="17"  height="8.3888903" x="269.556" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.19"/>
+                                            <rect id="rect52-4" width="17"  height="58.75" x="269.556" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.20"/>
+                                            <rect id="rect54-6" width="31.486099"  height="34.666698" x="218.91701" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.21"/>
+                                            <rect id="rect56-9" width="31.486099"  height="34.666698" x="218.91701" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.22"/>
+                                            <rect id="rect58-1" width="17"  height="111.111" x="225.556" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.23"/>
+                                            <rect id="rect60-9" width="17"  height="12.8889" x="225.556" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.24"/>
+                                            <rect id="rect62-7" width="17"  height="8.3888903" x="225.556" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.25"/>
+                                            <rect id="rect64-5" width="17"  height="58.75" x="225.556" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.26"/>
+                                            <rect id="rect66-9" width="31.486099"  height="34.666698" x="174.91701" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.27"/>
+                                            <rect id="rect68-2" width="31.486099"  height="34.666698" x="174.91701" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.28"/>
+                                            <rect id="rect70-4" width="17"  height="111.111" x="181.54201" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.29"/>
+                                            <rect id="rect72-1" width="17"  height="12.8889" x="181.54201" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.30"/>
+                                            <rect id="rect74-2" width="17"  height="8.3888903" x="181.54201" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.31"/>
+                                            <rect id="rect76-9" width="17"  height="58.75" x="181.54201" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.32"/>
+                                            <rect id="rect78-1" width="31.486099"  height="34.666698" x="130.903" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.33"/>
+                                            <rect id="rect80-1" width="31.486099"  height="34.666698" x="130.903" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.34"/>
+                                            <rect id="rect82-2" width="17"  height="111.111" x="137.54201" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.35"/>
+                                            <rect id="rect84-4" width="17"  height="12.8889" x="137.54201" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.36"/>
+                                            <rect id="rect86-4" width="17"  height="8.3888903" x="137.54201" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.37"/>
+                                            <rect id="rect88-0" width="17"  height="58.75" x="137.54201" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.38"/>
+                                            <rect id="rect90-6" width="31.486099"  height="34.666698" x="86.902802" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.39"/>
+                                            <rect id="rect92-8" width="31.486099"  height="34.666698" x="86.902802" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.40"/>
+                                            <rect id="rect94-2" width="17"  height="111.111" x="93.541702" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.41"/>
+                                            <rect id="rect96-2" width="17"  height="12.8889" x="93.541702" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.42"/>
+                                            <rect id="rect98-0" width="17"  height="8.3888903" x="93.541702" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.43"/>
+                                            <rect id="rect100-0" width="17"  height="58.75" x="93.541702" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.44"/>
+                                            <rect id="rect102-9" width="31.486099"  height="34.666698" x="42.902802" y="352.569" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.45"/>
+                                            <rect id="rect104-3" width="31.486099"  height="34.666698" x="42.902802" y="350.569" style="fill:#cccccc" gorn="0.3.0.0.10.0.0.0.0.0.0.46"/>
+                                            <rect id="rect106-9" width="17"  height="111.111" x="49.541698" y="352.569" style="fill:#d6d6d6" gorn="0.3.0.0.10.0.0.0.0.0.0.47"/>
+                                            <rect id="rect108-9" width="17"  height="12.8889" x="49.541698" y="400.09698" style="fill:#c2c2c2" gorn="0.3.0.0.10.0.0.0.0.0.0.48"/>
+                                            <rect id="rect110-1" width="17"  height="8.3888903" x="49.541698" y="392.95801" style="fill:#adadad" gorn="0.3.0.0.10.0.0.0.0.0.0.49"/>
+                                            <rect id="rect112-1" width="17"  height="58.75" x="49.541698" y="334.20801" style="fill:#999999" gorn="0.3.0.0.10.0.0.0.0.0.0.50"/>
+                                            <path id="path114-1"  d="m 0,575.583 34.0972,0 c 0,0 12.5833,-20.3194 30.8472,-20.3194 18.25,0 340.889,0 340.889,0 22.1944,0.56944 40.0417,18.3889 40.5833,40.6111 -0.11111,1.33333 -0.11111,2.68056 0,4.04167 1.13889,14.5694 13.8333,25.5556 28.4028,24.4444 l 66.8333,0 0,-29.7639 -32.9861,0 0,-23.4444 32.9861,0 0,13.0278 31.2222,0.0556 0,-19.2917 -64.2083,0 0,37.3333 32.9861,0 0,15.8889 -66.8333,0 c -14.5694,1.11111 -27.2639,-9.875 -28.4028,-24.4444 -0.11111,-1.375 -0.11111,-2.70833 0,-4.04167 -0.54167,-22.2361 -18.3889,-40.0556 -40.5833,-40.6111 0,0 -322.625,0 -340.889,0 -18.2639,0 -30.8472,20.3194 -30.8472,20.3194 L 0,569.389 l 0,6.194 z" style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.51"/>
+                                            <rect id="rect116-7" width="3.4722199"  height="11.8056" x="538.15302" y="621.58301" style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.52"/>
+                                            <rect id="rect118-2" width="2.61111"  height="11.8333" x="0" y="572.625" style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.53"/>
+                                            <path id="path120-9"  d="m 42.9028,379.917 c 0,-5.5 4.5,-10.0139 10,-10.0139 l 119.333,0 c 5.5,0 10,4.5 10,10.0139 l 0,-3.875 c 0,-5.5 -4.5,-10.0139 -10,-10.0139 L 52.9167,366.028 c -5.5,0 -10,4.5 -10,10.0139 l -0.0139,3.8751 0,0 z" style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.54"/>
+                                            <path id="path122-0"  d="m 216.736,379.917 c 0,-5.5 4.5,-10.0139 10,-10.0139 l 119.347,0 c 5.5,0 10.0278,4.5 10.0278,10.0139 l 0,-3.875 c 0,-5.5 -4.5,-10.0139 -10.0278,-10.0139 l -119.347,0 c -5.5,0 -10,4.5 -10,10.0139 l 0,3.875 z" style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.55"/>
+                                            <path id="path124-6"  d="m 470.444,152.069 c 0,-5.5 4.5,-10 9.98611,-10 l 92.3889,0 0,2.02778 -92.3889,0 c -5.48611,0 -9.98611,4.5 -9.98611,10 l 0,-2.02778 z" style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.56"/>
+                                            <rect id="rect126-3" width="42.916698"  height="2.3055601" x="0" y="584.45801" style="fill:#808080" gorn="0.3.0.0.10.0.0.0.0.0.0.57"/>
+                                            <rect id="rect128-9" width="33.180599"  height="288.41699" x="539.63898" y="144.097" style="fill:#333333" gorn="0.3.0.0.10.0.0.0.0.0.0.58"/>
+                                            <path id="path130-6"  d="m 480.431,142.069 92.3889,0 -9e-4,-141.541222 -39.1667,0 7e-4,5.722222 c 0,3.75 -3.04167,6.79167 -6.77778,6.79167 -3.73611,0 -6.77778,-3.04167 -6.77778,-6.79167 l -4.4e-4,-5.722222 -169.694,0 0,225.208002 c 0,5.5 -4.5,10 -10.0278,10 l -0.6532,2.2e-4 -8.33333,-222.708 -32.8472,0 -8.34722,222.708 -0.66667,0 c -5.5,0 -10,-4.5 -10,-10 l 4.2e-4,-225.208222 -153.542,0 0,225.250002 c 0,5.5 -4.5,10 -10,10 l -0.667,2.2e-4 -8.33333,-222.75 -32.86067,-2e-4 -8.33333,222.75 -0.68057,2e-4 c -5.5,0 -10,-4.5 -10,-10 l 0,-225.250222 -55.1111,0 0,572.208002 34.0972,0 c 0,0 12.5833,-20.3194 30.8472,-20.3194 18.25,0 340.889,0 340.889,0 22.1944,0.56944 40.0417,18.3889 40.5833,40.6111 -0.11111,1.33333 -0.11111,2.68056 0,4.04167 1.13889,14.5694 13.8333,25.5556 28.4028,24.4444 l 66.8333,0 0,-29.7639 -32.9861,0 0,-23.4444 64.2083,0 0,-135.764 -27.1806,0 -4e-4,-149.84725 2.917,0 c 5.5,0 10.0278,-4.5 10.0278,-10 l 0,-37.2917 c 0,-5.5 -4.5,-10 -10.0278,-10 l -44.2639,0 c -5.5,0 -9.98611,4.5 -9.98611,10 l 0,37.2917 c 0,5.5 4.47222,10 9.98611,10 l 2.95833,0 0,149.819 -26.8889,0 c -5.48611,0 -9.98611,-4.5 -9.98611,-9.98611 L 470.431,152.069 c 0.013,-5.486 4.513,-10 10,-10 z M 182.25,452.042 c 0,5.5 -4.5,10.0139 -10,10.0139 l -119.3333,10e-5 c -5.5,0 -10,-4.5 -10,-10.0139 l 0,-76.0556 c 0,-5.48611 4.5,-9.98611 10,-9.98611 l 119.333,0 c 5.5,0 10,4.5 10,9.98611 l 3e-4,76.0555 z m 173.861,0 c 0,5.5 -4.5,10.0139 -10.0139,10.0139 l -119.347,0 c -5.5,0 -10,-4.5 -10,-10.0139 l 0,-76.0556 c 0,-5.48611 4.5,-9.98611 10,-9.98611 l 119.347,0 c 5.5,0 10.0139,4.5 10.0139,9.98611 l 0,76.0556 z" style="fill:#d1d1d1" gorn="0.3.0.0.10.0.0.0.0.0.0.59"/>
+                                            <path id="path132-2"  d="m 545.667,412.986 0,-130.278 2.93056,0 c 5.5,0 9.98611,-4.5 9.98611,-10 l -6.7e-4,-37.291 c 0,-5.5 -4.47222,-10 -9.98611,-10 l -44.25,0 c -5.5,0 -10.0278,4.5 -10.0278,10 l 0,37.2917 c 0,5.5 4.5,10 10.0278,10 l 2.93056,0 0,130.278" style="fill:#dadada" gorn="0.3.0.0.10.0.0.0.0.0.0.60"/>
+                                            <path id="path134-8"  d="m 545.667,334.208 0,-51.5 2.93056,0 c 5.5,0 9.98611,-4.5 9.98611,-10 l -6.7e-4,-37.291 c 0,-5.5 -4.47222,-10 -9.98611,-10 l -44.25,0 c -5.5,0 -10.0278,4.5 -10.0278,10 l 0,37.2917 c 0,5.5 4.5,10 10.0278,10 l 2.93056,0 0,51.5" style="fill:#e3e3e3" gorn="0.3.0.0.10.0.0.0.0.0.0.61"/>
+                                            <rect id="rect136-0" width="31.194401"  height="19.263901" x="541.625" y="616.19397" style="fill:#af7418" gorn="0.3.0.0.10.0.0.0.0.0.0.62"/>
+                                            <rect id="rect138-6" width="31.194401"  height="29.736099" x="541.625" y="603.65302" style="fill:#f7bd13" gorn="0.3.0.0.10.0.0.0.0.0.0.63"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g  transform="translate(120.452,934.05)">
+                                <g >
+                                    <g id="g140-1"  gorn="0.3.0.0.10.0.0.1.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(120.452,34.05)">
+                                <g >
+                                    <g id="g153-8"  gorn="0.3.0.0.10.0.0.2.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(220.452,934.05)">
+                                <g >
+                                    <g id="g166-6"  gorn="0.3.0.0.10.0.0.3.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(220.452,34.05)">
+                                <g >
+                                    <g id="g179-1"  gorn="0.3.0.0.10.0.0.4.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(320.452,934.05)">
+                                <g >
+                                    <g id="g192-6"  gorn="0.3.0.0.10.0.0.5.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(320.452,34.05)">
+                                <g >
+                                    <g id="g205-2"  gorn="0.3.0.0.10.0.0.6.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(420.452,934.05)">
+                                <g >
+                                    <g id="g218-9"  gorn="0.3.0.0.10.0.0.7.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(420.452,34.05)">
+                                <g >
+                                    <g id="g231-5"  gorn="0.3.0.0.10.0.0.8.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(520.452,934.05)">
+                                <g >
+                                    <g id="g244-6"  gorn="0.3.0.0.10.0.0.9.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(520.452,34.05)">
+                                <g >
+                                    <g id="g257-1"  gorn="0.3.0.0.10.0.0.10.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(620.452,934.05)">
+                                <g >
+                                    <g id="g270-1"  gorn="0.3.0.0.10.0.0.11.0.0"/>
+                                </g>
+                            </g>
+                            <g  transform="translate(620.452,34.05)">
+                                <g >
+                                    <g id="g283-5"  gorn="0.3.0.0.10.0.0.12.0.0"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="text4131" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1" stroke="none" fill="#ffffff" stroke-width="1"  fill-opacity="1" font-size="5" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:100%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" gorn="0.3.0.0.11">
+                    <text id="tspan4133"  x="183.66785" y="1036.9365" style="font-size:3.75px;line-height:100%" gorn="0.3.0.0.11.0">POWER</text>
+                </g>
+                <g id="text4135" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1" stroke="none" fill="#ffffff" stroke-width="1"  fill-opacity="1" font-size="5" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:100%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" gorn="0.3.0.0.12">
+                    <text id="tspan4137"  x="141.93027" y="1036.9365" style="font-size:3.75px;line-height:100%" gorn="0.3.0.0.12.0">DATA</text>
+                </g>
+                <g id="text4139" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1" stroke="none" fill="#ffffff" stroke-width="1"  fill-opacity="1" font-size="5" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:100%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" gorn="0.3.0.0.13">
+                    <text id="tspan4141"  x="37.930267" y="1029.9648" style="font-size:3.75px;line-height:100%" gorn="0.3.0.0.13.0">HDMI</text>
+                </g>
+                <g  transform="matrix(0,1,-1,0,0,0)">
+                    <g >
+                        <g id="text4143" xmlns:xml="http://www.w3.org/XML/1998/namespace" stroke-opacity="1" stroke="none" fill="#ffffff" stroke-width="1"  fill-opacity="1" font-size="5" xml:space="preserve" style="font-style:normal;font-weight:normal;line-height:100%;font-family:Droid Sans;letter-spacing:0px;word-spacing:0px;stroke-linecap:butt;stroke-linejoin:miter;" gorn="0.3.0.0.14.0.0">
+                            <text id="tspan4145"  x="987.30157" y="-46.079391" style="font-size:3.125px;line-height:100%;text-align:center;text-anchor:middle" gorn="0.3.0.0.14.0.0.0">MICRO</text>
+                            <text id="tspan4147"  x="987.30157" y="-42.954391" style="font-size:3.125px;line-height:100%;text-align:center;text-anchor:middle" gorn="0.3.0.0.14.0.0.1">SD-CARD</text>
+                        </g>
+                    </g>
+                </g>
+                <path id="path808"  d="m 177.25194,979.88029 -0.18705,-0.33288 c 0.008,-2.40175 -1.08606,-3.38137 -2.35916,-4.12489 0.38798,-0.10409 0.78267,-0.18966 0.8929,-0.68366 0.66076,-0.17288 0.79992,-0.48562 0.86674,-0.81738 0.17253,-0.11637 0.75315,-0.44868 0.69303,-1.01709 0.324,-0.22826 0.50434,-0.52254 0.41361,-0.93709 0.34846,-0.38828 0.44033,-0.70996 0.2928,-1.00592 0.42027,-0.53092 0.23436,-0.80617 0.0541,-1.08478 0.31284,-0.58184 0.0385,-1.20284 -0.8389,-1.09879 -0.34958,-0.52253 -1.10832,-0.40337 -1.22744,-0.40225 -0.13146,-0.16727 -0.30505,-0.31161 -0.84003,-0.24113 -0.34568,-0.31497 -0.73368,-0.26126 -1.13169,-0.1068 -0.47541,-0.37484 -0.7888,-0.075 -1.14561,0.0391 -0.57505,-0.18797 -0.70419,0.0694 -0.98699,0.17511 -0.6257,-0.13258 -0.81551,0.15665 -1.11501,0.46212 l -0.35068,-0.008 c -0.94412,0.55891 -1.41281,1.69684 -1.57818,2.28315 -0.167,-0.58519 -0.63515,-1.72424 -1.57869,-2.28315 l -0.34792,0.008 c -0.30005,-0.30547 -0.49097,-0.5947 -1.11668,-0.46212 -0.28166,-0.10515 -0.41359,-0.36197 -0.98584,-0.17511 -0.2366,-0.075 -0.45313,-0.23106 -0.70753,-0.2221 -0.13355,0.005 -0.27666,0.0542 -0.43977,0.18294 -0.39856,-0.15498 -0.78657,-0.20812 -1.13228,0.1068 -0.5344,-0.0699 -0.7075,0.0738 -0.84055,0.24113 -0.11517,-0.002 -0.87786,-0.12085 -1.22632,0.40226 -0.87622,-0.10468 -1.15453,0.51749 -0.8417,1.09878 -0.17813,0.27861 -0.36293,0.55386 0.0542,1.08478 -0.1471,0.29652 -0.0563,0.61654 0.29393,1.00592 -0.0925,0.41456 0.089,0.70883 0.41468,0.93709 -0.0618,0.56897 0.51773,0.90017 0.69196,1.0171 0.0657,0.33177 0.20321,0.64394 0.86785,0.81737 0.10879,0.49289 0.50712,0.58015 0.89011,0.68366 -1.27252,0.74295 -2.36528,1.72257 -2.3558,4.12489 l -0.18705,0.33289 c -1.46126,0.89457 -2.77443,3.76459 -0.72088,6.09474 0.13627,0.73177 0.35904,1.25431 0.56054,1.83559 0.29839,2.33742 2.25621,3.43117 2.77165,3.5604 0.75763,0.58128 1.56146,1.12956 2.65032,1.51223 1.02761,1.0652 2.13984,1.47249 3.25927,1.47137 0.015,0 0.0345,0 0.049,0 1.12001,0 2.23168,-0.40617 3.25929,-1.47137 1.08993,-0.38435 1.89601,-0.93431 2.65197,-1.51223 0.51602,-0.12812 2.47216,-1.22409 2.77218,-3.5604 0.19983,-0.58128 0.42476,-1.10493 0.55891,-1.83559 2.0569,-2.3307 0.74202,-5.20073 -0.71697,-6.09474 z m -1.3221,-0.41064 c -0.0741,0.96675 -5.01557,-3.37019 -4.16276,-3.51285 2.31463,-0.39386 4.2407,0.98913 4.16276,3.51285 z m -2.04408,4.81974 c -1.24304,0.81849 -3.03328,0.29092 -4.00021,-1.17878 -0.96527,-1.46914 -0.74204,-3.32487 0.50044,-4.1428 1.24136,-0.81737 3.03274,-0.29092 4.00077,1.17878 0.96525,1.47026 0.74146,3.32487 -0.501,4.1428 z m -3.37674,-14.92806 c 0.0413,0.21651 0.089,0.35414 0.14528,0.39554 0.27557,-0.30155 0.49935,-0.60813 0.85395,-0.89794 5.6e-4,0.16896 -0.0845,0.35358 0.12574,0.48841 0.19039,-0.26015 0.44648,-0.49232 0.78713,-0.68813 -0.16419,0.28812 -0.0284,0.37595 0.0602,0.49512 0.25829,-0.22658 0.5049,-0.45652 0.98474,-0.6361 -0.1319,0.16336 -0.31451,0.32112 -0.11853,0.50854 0.26666,-0.17063 0.53612,-0.3407 1.17181,-0.46267 -0.14409,0.16282 -0.43975,0.32616 -0.25996,0.48897 0.33565,-0.12981 0.70587,-0.22658 1.11945,-0.27973 -0.19929,0.16392 -0.36293,0.32616 -0.20264,0.45428 0.36017,-0.11413 0.85674,-0.26462 1.33991,-0.13483 l -0.30616,0.31554 c -0.035,0.0413 0.71755,0.0313 1.21242,0.0386 -0.18034,0.25567 -0.36463,0.50352 -0.47316,0.94437 0.0491,0.0515 0.29282,0.0223 0.52604,0 -0.23657,0.50911 -0.65074,0.63834 -0.74648,0.85709 0.14574,0.11248 0.34735,0.0839 0.56668,0.007 -0.16976,0.3603 -0.52995,0.60646 -0.81273,0.89793 0.0718,0.0515 0.19648,0.0822 0.49321,0.0476 -0.26053,0.28364 -0.57671,0.54268 -0.95191,0.77598 0.0668,0.0773 0.29448,0.0749 0.50714,0.08 -0.34069,0.33902 -0.77599,0.51637 -1.18684,0.73679 0.20486,0.14377 0.34959,0.10905 0.50603,0.1074 -0.28889,0.24337 -0.78213,0.37093 -1.24026,0.51582 0.088,0.13874 0.17423,0.17568 0.36016,0.2154 -0.4843,0.27133 -1.1768,0.14656 -1.37273,0.28756 0.0451,0.13708 0.17869,0.22546 0.33899,0.30043 -0.77877,0.0464 -2.91024,-0.0291 -3.31828,-1.67335 0.79717,-0.89569 2.25228,-1.94524 4.75784,-3.24206 -1.94889,0.66519 -3.70687,1.55249 -5.17534,2.77324 -1.72902,-0.82185 -0.53607,-2.89409 0.30838,-3.71706 z m 0.92517,7.73006 c -0.002,0.77709 -1.06377,1.40592 -2.72822,1.39305 -1.62936,-0.0201 -2.72545,-0.78996 -2.72157,-1.54244 0.002,-0.61707 1.3288,-1.68509 2.71098,-1.64928 1.22635,-0.0128 2.74494,0.92031 2.73881,1.79867 z m -8.94063,-2.45994 c 0.18704,-0.0392 0.27276,-0.0767 0.35903,-0.2154 -0.45534,-0.14491 -0.9491,-0.27246 -1.23969,-0.51582 0.157,0.001 0.30117,0.0364 0.50658,-0.1074 -0.40973,-0.22043 -0.84671,-0.39778 -1.18627,-0.73681 0.21155,-0.005 0.44089,-0.002 0.50713,-0.08 -0.37463,-0.23329 -0.69137,-0.49232 -0.95302,-0.77597 0.29671,0.0347 0.42085,0.004 0.49267,-0.0475 -0.28338,-0.29148 -0.64072,-0.53764 -0.81218,-0.89792 0.21932,0.0767 0.42083,0.10515 0.56555,-0.007 -0.0952,-0.21875 -0.50824,-0.34798 -0.74536,-0.8571 0.2338,0.0224 0.47817,0.0515 0.52661,0 -0.10734,-0.44086 -0.29171,-0.68868 -0.47319,-0.94436 0.49544,-0.007 1.24638,0.002 1.21299,-0.0386 l -0.30673,-0.31553 c 0.4832,-0.12981 0.98028,0.0207 1.33825,0.13482 0.16254,-0.12812 -0.001,-0.29036 -0.1993,-0.45428 0.41249,0.0538 0.78434,0.1505 1.11945,0.27973 0.17815,-0.16281 -0.11624,-0.32616 -0.26051,-0.48897 0.63516,0.1214 0.90516,0.29148 1.17289,0.46268 0.1943,-0.18742 0.0136,-0.34519 -0.11973,-0.50856 0.47817,0.17903 0.72643,0.40897 0.98472,0.63611 0.0886,-0.11863 0.22323,-0.20699 0.0602,-0.49512 0.34012,0.19637 0.59618,0.42855 0.78658,0.68813 0.21151,-0.13482 0.12574,-0.31945 0.12739,-0.4884 0.35403,0.28979 0.57726,0.59639 0.85281,0.89793 0.0563,-0.0414 0.10469,-0.17902 0.1471,-0.39554 0.84277,0.82297 2.03684,2.8952 0.30672,3.71593 -1.46794,-1.22074 -3.22644,-2.10804 -5.17422,-2.77324 2.50333,1.29683 3.96068,2.34638 4.75672,3.24208 -0.40805,1.64368 -2.54009,1.71976 -3.31941,1.67333 0.16087,-0.0749 0.29336,-0.16336 0.339,-0.30043 -0.19538,-0.13987 -0.88954,-0.0148 -1.37275,-0.28643 z m 2.87518,1.24982 c 0.85225,0.14546 -4.08817,4.48127 -4.16442,3.51341 -0.0763,-2.52429 1.84758,-3.90615 4.16442,-3.51341 z m -5.18925,9.66411 c -1.19963,-0.96955 -1.5865,-3.81384 0.6396,-5.08996 1.34158,-0.36197 0.45202,5.57837 -0.6396,5.08996 z m 4.6838,5.08941 c -0.67637,0.40895 -2.32296,0.2428 -3.49198,-1.44789 -0.78992,-1.41711 -0.68693,-2.85828 -0.13415,-3.28067 0.82775,-0.50687 2.10752,0.17623 3.09172,1.32481 0.85837,1.04171 1.2497,2.86442 0.5344,3.40375 z m -1.32263,-6.18875 c -0.002,-0.001 -0.007,-0.004 -0.0136,-0.009 -1.24026,-0.82067 -1.46017,-2.67752 -0.49043,-4.14499 0.96861,-1.4613 2.75162,-1.98607 3.99299,-1.17597 1.24525,0.81345 1.47514,2.6675 0.50988,4.13943 -0.96191,1.47194 -2.75438,2.00511 -4.00019,1.19053 z m 5.15696,9.08339 c -1.48798,0.0622 -2.94924,-1.23025 -2.93197,-1.67615 -0.0201,-0.65568 1.81696,-1.16703 3.01323,-1.1385 1.20631,-0.0526 2.8223,0.38995 2.82511,0.97794 0.0189,0.56954 -1.46571,1.85852 -2.90637,1.83671 z m 3.06834,-6.47351 c -0.005,1.53516 -1.34991,2.77771 -3.0071,2.77436 -1.65053,-0.004 -2.98986,-1.24311 -2.99376,-2.77436 -0.002,-1.53572 1.3371,-2.7822 2.99376,-2.78331 1.65719,-0.004 3.0032,1.23865 3.0071,2.77492 0,0.004 0,0.006 0,0.008 z m 4.19448,2.21266 c -1.28255,1.7914 -3.02156,1.86021 -3.66786,1.36228 -0.67803,-0.64113 -0.16038,-2.6356 0.76651,-3.72712 1.06268,-1.20731 2.19717,-1.99335 2.98819,-1.37626 0.53273,0.53148 0.84559,2.53994 -0.0868,3.7411 z m 1.00479,-3.79873 c -1.09106,0.48841 -1.98118,-5.45249 -0.63906,-5.09052 2.22668,1.27837 1.83981,4.12042 0.63906,5.09052 z" gorn="0.3.0.0.15" style="fill:#ffffff"/>
+                <g  transform="scale(1.0348559,0.96631813)">
+                    <g >
+                        <text id="tspan6539"  x="38.291859" y="1000.893" gorn="0.3.0.0.16.0.0" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.91246104px;font-family:Droid Sans;-inkscape-font-specification:Droid Sans;fill:#ffffff">GPIO</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
