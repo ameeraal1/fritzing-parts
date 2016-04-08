@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<module referenceFile="Raspberry_Pi_2_v1.1.fzp" moduleId="raspberry_pi_3_rev-1.2" fritzingVersion="0.9.0b.04.10.5970">
+<module referenceFile="Raspberry_Pi_2_v1.1.fzp" moduleId="raspberry_pi_3_rev-1.2_93cd6203faf853cc01c7e5d7831d3687_3" fritzingVersion="0.9.0b.04.10.5970">
  <version>1</version>
  <author>Anudit Nagar</author>
  <title>Raspberry Pi 3</title>
