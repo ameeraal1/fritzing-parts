@@ -852,6 +852,38 @@
         </views>
       </instance>
 
+      <instance moduleIdRef="Molex-Picoblade-53261-0219_smd-2p-h" modelIndex="46" path="Molex-Picoblade-53261-0219_smd-2p-h_48.fzp">
+        <views>
+          <iconView layer="icon">
+            <geometry z="-1" x="-1" y="-1"></geometry>
+          </iconView>
+        </views>
+      </instance>
+  
+      <instance moduleIdRef="Molex-Picoblade-53398-0271_smd-2p-v" modelIndex="46" path="Molex-Picoblade-53398-0271_smd-2p-v_18.fzp">
+        <views>
+          <iconView layer="icon">
+            <geometry z="-1" x="-1" y="-1"></geometry>
+          </iconView>
+        </views>
+      </instance>
+  
+      <instance moduleIdRef="hirose-df13-2p-125h" modelIndex="46" path="hirose-df13-2p-125h_42.fzp">
+        <views>
+          <iconView layer="icon">
+            <geometry z="-1" x="-1" y="-1"></geometry>
+          </iconView>
+        </views>
+      </instance>
+      
+      <instance moduleIdRef="hirose-df13-2p-125v" modelIndex="46" path="hirose-df13-2p-125v_50.fzp">
+        <views>
+          <iconView layer="icon">
+            <geometry z="-1" x="-1" y="-1"></geometry>
+          </iconView>
+        </views>
+      </instance>
+  
       <instance moduleIdRef="screw_terminal_2_3.5mm" modelIndex="46" path="screw_terminal_2_3.5mm.fzp">
         <views>
           <iconView layer="icon">
@@ -859,6 +891,7 @@
           </iconView>
         </views>
       </instance>
+  
       <instance moduleIdRef="DB25F" modelIndex="46" path="DB25F.fzp">
         <views>
           <iconView layer="icon">
